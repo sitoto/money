@@ -1,0 +1,17 @@
+# Bundler
+.bundle
+Gemfile.lock
+pkg/*
+
+# Rubinius
+*.rbc
+
+# YARD
+.yardoc
+yardoc/
+doc/
+
+# Project
+.rbenv-version
+.rbx
+.rvmrc
